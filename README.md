@@ -1,0 +1,2 @@
+# HotelInsightAI
+a college project
