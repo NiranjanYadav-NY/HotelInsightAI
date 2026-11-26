@@ -1,0 +1,1 @@
+# HotelInsight AI App Package
